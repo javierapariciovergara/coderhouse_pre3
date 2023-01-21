@@ -1,0 +1,35 @@
+/*********************** PROPIEDADES CSS ESPECIFICOS HTML INDEX *********************************/
+
+/**** propiedades de Imagen Portada ****/
+/**** Futuro Carrousel ****/
+
+.imagen_portada {
+    text-align: center;
+    align-items: center;
+    padding-bottom: 3em;   
+}
+
+.imagen_portada img {
+    width: 90%;
+}
+
+/**** propiedades de Titulo y Parrafo Principal ****/
+
+.cindex {
+    text-align: center;
+    align-items: center;
+    padding-bottom: 3em;
+ 
+    & h1 {
+       font-size: 3em;
+       font-weight: 500;
+       color: $color-titulo-principal;
+    }
+ 
+    & p {
+       font-size: 1em;
+       font-weight: 300;
+       color: $color-subtit-principal;
+    }
+ 
+ }

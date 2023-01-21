@@ -1,0 +1,28 @@
+/**** propiedades generales del Body ****/
+
+body{
+   font-family: 'Montserrat', 'Poppins', Arial, Verdana, Tahoma;
+   background-color: #a1abe7;
+}
+
+
+/**** tamaño, posicionamiento y color de fondo del header ****/
+
+header{
+   width: 90%;
+   height: 250px;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+/**** tamaño y posicionamiento de logo principal ****/
+
+#marca1{
+   width: 200px;
+   height: 200px;
+   float: left;
+   margin-top: 0.3em;
+}
+
+/**** propiedades de seccion principal/portada ****/
+

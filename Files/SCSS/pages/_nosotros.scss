@@ -1,0 +1,23 @@
+/*********************** PROPIEDADES CSS ESPECIFICOS HTML NOSOTROS *********************************/
+
+.cnosotros {
+    text-align: center;
+    align-items: center;
+    padding-bottom: 3em;
+ 
+    & h1 {
+       font-size: 3em;
+       font-weight: 500;
+       color: $color-titulo-principal;
+    }
+ 
+    & p {
+       font-size: 1em;
+       font-weight: 300;
+       color: $color-subtit-principal;
+    }
+ 
+ }
+
+
+/*********************** FIN PROPIEDADES CSS ESPECIFICOS HTML NOSOTROS *********************************/

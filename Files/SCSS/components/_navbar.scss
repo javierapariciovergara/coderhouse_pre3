@@ -1,0 +1,24 @@
+/**** propiedades de navbar ****/
+/**** tamaño y posicionamiento de la botonera ****/
+
+#botonera_principal{
+    float: right;
+
+    ul li {
+        list-style: none;
+        display: inline-block;
+        background-color: rgba(30, 40, 40, 0.4);
+
+        a {
+            position: relative;
+            padding: 10px 15px;
+            text-align: center;
+            font-size: 22px;
+            color: #262626;
+            text-transform: uppercase;
+            text-decoration: none;
+            font-family: 'Montserrat';
+        }
+    }
+}
+
